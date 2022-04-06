@@ -1,4 +1,4 @@
-package com.soledad.digitalavatar;
+package com.soledad.digital_avatar;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package com.soledad.digitalavatar.config;
+package com.soledad.digital_avatar.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
